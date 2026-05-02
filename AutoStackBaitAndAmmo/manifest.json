@@ -1,10 +1,10 @@
 {
   "Name": "Auto-Stack Bait & Ammo",
   "Author": "Jonathan Feenstra",
-  "Version": "2.1.0",
+  "Version": "2.2.0",
   "Description": "Automatically adds any new bait to fishing poles that have the same type of bait attached and new ammo to slingshots that have the same type of ammo attached.",
   "UniqueID": "JonathanFeenstra.AutoStackBait",
   "EntryDll": "AutoStackBaitAndAmmo.dll",
-  "MinimumApiVersion": "4.1.6",
+  "MinimumApiVersion": "4.5.0",
   "UpdateKeys": [ "Nexus:23423" ]
 }
